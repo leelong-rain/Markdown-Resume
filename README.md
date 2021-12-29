@@ -4,9 +4,9 @@
 
 ## 个人信息 
 
-* 性 别： 男                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  年 龄：21  
-* 手 机： 14779595816        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;                                邮 箱：2507835889@qq.com    
-* 专 业： 信息与计算科学      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                      岗 位：Java研发工程师
+* 性 别： 男                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+* 手 机： 14779595816        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                         邮 箱：muziyou02@gmail.com    
+* 专 业： 信息与计算科学      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                                      岗 位：Java研发工程师
 
 ## 工作及教育经历
         
